@@ -75,3 +75,8 @@ python 2_player_game.py.py
 - A victory message is displayed for 3 seconds before closing.
 
 **Enjoy the Pokemon action!** # Pokemon_game_using_pygame
+
+
+
+### screenshot:
+![Image](https://github.com/user-attachments/assets/39296e90-010a-4650-af6d-ad6f370d5026)
