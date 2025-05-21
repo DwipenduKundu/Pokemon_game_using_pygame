@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ```bash
 pip install pygame
-python <gamename>.py
+python 2_player_game.py.py
 ```
 ------------------
 
